@@ -15,3 +15,17 @@ Zenodo DOI
 
 License
 This work is released under the MIT License. For academic use, cite the Zenodo version and link to this GitHub repository.
+
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below:"
+title: "A Unified Multi-Objective Loss Function for Ethically Aligned Machine Learning"
+version: 1.0.0
+doi: 10.5281/zenodo.15556799
+date-released: 2025-05-30
+url: https://github.com/Arminochlorid/multi-objective-loss-function
+license: MIT
+authors:
+  - family-names: Yousefi
+    given-names: Arash
+    affiliation: IT&Science GmbH, Switzerland
+
