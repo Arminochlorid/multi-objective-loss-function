@@ -12,4 +12,4 @@ Structure
 
 License
 
-MIT License or CC BY 4.0 – choose based on your citation context.
+MIT License or CC BY 4.0 
